@@ -1,4 +1,4 @@
-import Header from "./components.jsx/Header";
+import Header from "./components/Header.jsx";
 import { calculateInvestmentResults } from "./util/investment";
 
 function App() {
